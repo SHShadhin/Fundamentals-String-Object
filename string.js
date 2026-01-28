@@ -13,13 +13,13 @@ const thana = new String("Bera"); // object
 
 const numbers = [12, 34, 53, 76];
 
-numbers[0] = 222;  // that means array is mutable. // Mutable means its changable 
+numbers[0] = 222;  // that means array is mutable. // Mutable means its changeable 
 console.log(numbers) 
 
 
 
 const capital = 'Dha k a'
 
-capital[0] = 'J' // string is immutable. Immutable means unchangable.
+capital[0] = 'J' // string is immutable. Immutable means unchangeable.
 console.log(capital)
 console.log(capital.length)
